@@ -5,8 +5,9 @@ end
 
 def my_hash
   age = {
-    Ducky: 26
-    James: 28}
+    Ducky: 26,
+    James: 28
+  }
 end
 
 def pioneer
