@@ -4,9 +4,9 @@ def new_hash
 end
 
 def my_hash
-  age = {
-    Ducky: 26,
-    James: 28
+  person = {
+    name: "Duke",
+    age: 26
   }
 end
 
