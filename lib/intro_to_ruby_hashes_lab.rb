@@ -4,8 +4,8 @@ def new_hash
 end
 
 def my_hash
-  {Ducky: 26
-   James: 28}
+  {"Ducky": 26
+   "James": 28}
 end
 
 def pioneer
